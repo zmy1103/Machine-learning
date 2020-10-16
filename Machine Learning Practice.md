@@ -1,5 +1,7 @@
 ## Machine Learning Practice
 
+![image-20201016170537453](https://tva1.sinaimg.cn/large/005IQUPRly1gjrabfhae3j3076062myx.jpg)
+
 ### Learning materials:
 
 - https://zhuanlan.zhihu.com/p/93708197
