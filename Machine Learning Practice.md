@@ -7,7 +7,17 @@
 - https://zhuanlan.zhihu.com/p/93708197
 - PumpkinBookhttps://github.com/datawhalechina/pumpkin-book
 
-### Basic knowledge
+### Competition:
+
+| 比赛名字                                | 赛题描述 | 用到的模型 | 比赛结果 |
+| --------------------------------------- | -------- | ---------- | -------- |
+| Titanic: Machine Learning from Disaster |          |            |          |
+|                                         |          |            |          |
+|                                         |          |            |          |
+
+
+
+### Basic knowledge:
 
 | Chapter name | Representative model | Note |
 | ------------ | -------------------- | ---- |
