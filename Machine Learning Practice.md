@@ -20,11 +20,11 @@
 
 ### Basic knowledge:
 
-| Chapter name   | Representative model | Note         |
-| -------------- | -------------------- | ------------ |
-| 吴恩达机器学习 | 90题                 | [90课后题]() |
-| 吴恩达机器学习 | 编程作业_python实现  | [编程作业]() |
-|                |                      |              |
+| Chapter name   | Representative model | Note                                                         |
+| -------------- | -------------------- | ------------------------------------------------------------ |
+| 吴恩达机器学习 | 90题                 | [90课后题](https://github.com/zmy1103/Machine-learning/blob/master/Basic_Knowledge_Note/90%E9%A2%98%E7%BB%86%E5%93%81%E5%90%B4%E6%81%A9%E8%BE%BE%E3%80%8A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%8B.md) |
+| 吴恩达机器学习 | 编程作业_python实现  | [编程作业](https://github.com/zmy1103/Machine-learning/tree/master/Code/Andrew%20Ng) |
+|                |                      |                                                              |
 
 - [ ] [50道练习带你玩转Pandas](https://www.kesci.com/home/project/5ddc974ef41512002cec1dca)
 - [ ] [这100道练习，带你玩转Numpy](https://www.kesci.com/home/project/59f29f67c5f3f5119527a2cc)
@@ -64,6 +64,10 @@
 |        |       |       |
 |        |       |       |
 |        |       |       |
+
+### Notes:
+
+- Numpy 隐含的四大陷阱https://cloud.tencent.com/developer/article/1361576
 
 ### Interview questions
 
