@@ -10,17 +10,25 @@
 
 ### 数据处理：
 
-- Importing Data with Pandas
-- Cleaning Data
-- Exploring Data through Visualizations with Matplotlib
+- 导入数据with Pandas
+- 清洗数据
+- 对数据进行可视化
 
 1. 数据特征
 
    ![image-20201115201909816](https://tvax1.sinaimg.cn/large/005IQUPRgy1gkq4hvs0xhj30dk0do74t.jpg)
 
-   训练数据集一共891条，但是
+   训练数据集一共891条
 
-2. 的
+2. 泰坦尼克号基本特征工程
+
+   - 职称：[‘Name’]->['Mrs', 'Mr', 'Master', 'Miss', 'Major', 'Rev',
+                         'Dr', 'Ms', 'Mlle','Col', 'Capt', 'Mme', 'Countess',
+                         'Don', 'Jonkheer']
+   - 机舱 [‘Cabin’] = [‘A’,’B’.......’Unknown’]
+   - 家庭规模 df[‘Family_Size’] = df[‘SibSp’] + df[‘Parch’]
+   - 年龄*类别 交互术语地方
+   - 每人票价
 
 ### 数据分析模型：
 
